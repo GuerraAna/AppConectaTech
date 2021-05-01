@@ -1,4 +1,4 @@
-## Projeto do Hackathon Virtual Experience 2021
+## Projeto do Hackathon Virtual Experience 2021 - Aplicativo Conecta Tech
 
 ### Introdução:
 
