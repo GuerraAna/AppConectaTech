@@ -23,7 +23,7 @@ Em suma, a aplicação escolhida pela equipe foi Mobile Android, pelo fato de qu
 
 ### Telas nesta aplicação:
 
-![image](https://user-images.githubusercontent.com/78937585/116772827-e5284480-aa27-11eb-91ca-8f0b25be1eb0.png)![image](https://user-images.githubusercontent.com/78937585/116772831-ece7e900-aa27-11eb-9cbe-a8f69b310343.png)
+![image](https://user-images.githubusercontent.com/78937585/116772827-e5284480-aa27-11eb-91ca-8f0b25be1eb0.png)  ![image](https://user-images.githubusercontent.com/78937585/116772831-ece7e900-aa27-11eb-9cbe-a8f69b310343.png)
 
 
 
