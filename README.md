@@ -12,6 +12,11 @@ Conclusão, ficamos em 4º Lugar na competição.
 Este projeto tem como propósito, não somente divulgar vagas para jovens na área de tecnologia, mas também capacita-los através de uma jornada de cursos, com uma linguagem simplificada e acessível a todos aqueles indivíduos de baixa renda e de baixa escolaridade, passarem em um ou mais processos seletivos com maiores habilidades, conhecimentos e chances de serem contratados.
 
 
+### Vídeo apresentação do projeto:
+
+https://www.youtube.com/watch?v=6zR68141uMA
+
+
 ### Sobre o aplicativo do projeto (em desenvolvimento) :
 
 Este aplicativo está em desenvolvimento. Infelizmente, em 72 horas não foi possível utilizar todos os conhecimentos do time de desenvolvedores. O objetivo do Hackathon é entregar um protótipo bem elaborado, a ideia desenvolvida, pesquisas que comprovem o raciocínio e uma aplicação, podendo ser Mobile / Web, que possua a "raiz" (o mais importante) do projeto.
